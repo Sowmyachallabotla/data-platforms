@@ -41,7 +41,7 @@ This project simulates a daily ETL pipeline that:
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/yourusername/data-platform.git
+git clone https://github.com/Sowmyachallabotla/data-platforms.git
 cd data-platform
 
 Upload mock data to S3
