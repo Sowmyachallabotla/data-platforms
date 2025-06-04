@@ -1,0 +1,8 @@
+transaction_id,customer_name,account_type,transaction_amount,currency,transaction_date
+TXN001,John Doe,Savings,250.75,USD,2024-05-20
+TXN002,Jane Smith,Checking,1200.50,EUR,2024-05-22
+TXN003,Alex Johnson,Investment,800.00,GBP,2024-05-23
+TXN004,Sam Lee,Savings,-150.00,USD,2024-05-24
+TXN005,Kate Wong,Checking,450.00,AUD,2026-01-01
+TXN006,Bob Martin,Checking,NULL,USD,NULL
+TXN001,John Doe,Savings,250.75,USD,2024-05-20
